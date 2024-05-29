@@ -1,6 +1,4 @@
-### **Research for the statistical analysis of meteorological data and machine learning methods for determining solar irradiation**
-
----
+## **Research for the statistical analysis of meteorological data and machine learning methods for determining solar irradiation**
 
 **Researcher:** 
 - Matheus Henrique da Silva. Control and Automation Engineering Student.
@@ -14,9 +12,7 @@
 - E-mail: wesleyangelino@utfpr.edu.br.
 - ID Lattes: 8594457321079718.
 
----
-
-Steps of these code file
+## **Steps of these code file**
 
 0. Importing Libraries;
 1. Data extraction and agglutination;
@@ -27,3 +23,5 @@ Steps of these code file
 6. Optimization of parameters of ML models;
 7. Cross validation of ML models optmize;
 8. Application of models.
+
+## [**Publication Link**](https://www.researchgate.net/publication/375890910_Analysis_of_Machine_Learning_Methods_for_Estimating_Solar_Irradiation)
